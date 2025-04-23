@@ -6,5 +6,6 @@
 The project aims to examine the distribution of age at menarche among U.S. women and explore its association with current age, socioeconomic status, race/ethnicity, BMI, and other health indicators, using NHANES data. The study aims to identify patterns and potential shifts in the timing of menarche across generations, which may have implications for reproductive health, chronic disease risk, and public health policy.
 
 
-![image](https://github.com/user-attachments/assets/4e885066-be8a-49aa-af4b-17a223ea9898)
+![image](https://github.com/user-attachments/assets/a2832348-7079-4e27-8fe2-0742e1cb0b33)
+
 
